@@ -1,0 +1,204 @@
+[
+    {
+        "DateTime": "2023-07-01T03:00:00+06:00",
+        "EpochDateTime": 1688158800,
+        "WeatherIcon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy",
+        "IsDaylight": false,
+        "Temperature": {
+            "Value": 79.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 90,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=3&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=3&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T04:00:00+06:00",
+        "EpochDateTime": 1688162400,
+        "WeatherIcon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false,
+        "IsDaylight": false,
+        "Temperature": {
+            "Value": 79.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 49,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=4&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=4&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T05:00:00+06:00",
+        "EpochDateTime": 1688166000,
+        "WeatherIcon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy",
+        "IsDaylight": false,
+        "Temperature": {
+            "Value": 79.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 70,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=5&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=5&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T06:00:00+06:00",
+        "EpochDateTime": 1688169600,
+        "WeatherIcon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false,
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 80.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 49,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=6&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=6&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T07:00:00+06:00",
+        "EpochDateTime": 1688173200,
+        "WeatherIcon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false,
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 81.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 49,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=7&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=7&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T08:00:00+06:00",
+        "EpochDateTime": 1688176800,
+        "WeatherIcon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate",
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 83.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 61,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=8&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=8&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T09:00:00+06:00",
+        "EpochDateTime": 1688180400,
+        "WeatherIcon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false,
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 84.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 49,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=9&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=9&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T10:00:00+06:00",
+        "EpochDateTime": 1688184000,
+        "WeatherIcon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false,
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 85.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 49,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=10&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=10&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T11:00:00+06:00",
+        "EpochDateTime": 1688187600,
+        "WeatherIcon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate",
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 85.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 53,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=11&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=11&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T12:00:00+06:00",
+        "EpochDateTime": 1688191200,
+        "WeatherIcon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false,
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 86.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 49,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=12&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=12&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T13:00:00+06:00",
+        "EpochDateTime": 1688194800,
+        "WeatherIcon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false,
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 88.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 47,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=13&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=13&lang=en-us"
+    },
+    {
+        "DateTime": "2023-07-01T14:00:00+06:00",
+        "EpochDateTime": 1688198400,
+        "WeatherIcon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate",
+        "IsDaylight": true,
+        "Temperature": {
+            "Value": 86.0,
+            "Unit": "F",
+            "UnitType": 18
+        },
+        "PrecipitationProbability": 51,
+        "MobileLink": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=14&lang=en-us",
+        "Link": "http://www.accuweather.com/en/bd/kazla/30602/hourly-weather-forecast/30602?day=1&hbhhour=14&lang=en-us"
+    }
+]
